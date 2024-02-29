@@ -26,3 +26,4 @@ r
 
 # plot a single layer
 plot(r[[2]])
+plot(r[[3]])
